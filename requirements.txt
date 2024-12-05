@@ -1,4 +1,5 @@
-streamlit==1.25.0     # O la versión que tengas instalada
-requests==2.31.0      # O la versión que tengas instalada
-pandas==1.5.3         # O la versión que tengas instalada
-plotly==5.17.0        # O la versión que tengas instalada
+streamlit
+pandas
+numpy
+matplotlib
+requests
